@@ -140,8 +140,7 @@ This website was created to provide a modern digital presence for a beauty salon
 
 **Hitarth Saparia**
 
-* GitHub: https://github.com/Hitarth-Saparia<img width="1469" height="727" alt="Screenshot 2026-06-27 at 10 15 51 AM" src="https://github.com/user-attachments/assets/7877cd50-8840-489b-943d-8c1a929a351d" />
-
+* GitHub: https://github.com/Hitarth-Saparia
 * Instagram: @heet.dev.ai
 
 ---
